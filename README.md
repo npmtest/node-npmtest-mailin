@@ -1,6 +1,6 @@
 # npmtest-mailin
 
-#### test coverage for  [mailin (v3.0.4)](https://github.com/Flolagale/mailin)  [![npm package](https://img.shields.io/npm/v/npmtest-mailin.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-mailin) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-mailin.svg)](https://travis-ci.org/npmtest/node-npmtest-mailin)
+#### basic test coverage for  [mailin (v3.0.4)](https://github.com/Flolagale/mailin)  [![npm package](https://img.shields.io/npm/v/npmtest-mailin.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-mailin) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-mailin.svg)](https://travis-ci.org/npmtest/node-npmtest-mailin)
 
 #### Artisanal inbound emails for every web app
 
